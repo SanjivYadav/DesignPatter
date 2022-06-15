@@ -1,5 +1,7 @@
 package sanjiv.dp.singleton.serialization;
 
+import sanjiv.dp.singleton.serialization.SerializationSingleton;
+
 import java.io.*;
 
 public class SerializationSingletonTest {
